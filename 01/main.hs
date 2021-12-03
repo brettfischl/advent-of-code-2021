@@ -1,5 +1,4 @@
 import System.IO
-import Language.Haskell.TH (report)
 
 stringToInt str = read str::Int
 
